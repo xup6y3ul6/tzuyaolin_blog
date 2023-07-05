@@ -1,0 +1,8 @@
+---
+title: "Reliability for multilevel data: A correlation approach"
+author: "Tzu-Yao Lin"
+date: "2023-07-13"
+categories:
+  - reliability
+  - multilevel data
+---

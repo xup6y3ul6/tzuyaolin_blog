@@ -1,0 +1,8 @@
+---
+title: "Incorporating the Luce-Krantz threshold model into the cultural consensus theory for ordinal categorical data: A simulation study"
+author: "Tzu-Yao Lin"
+date: "2023-07-19"
+categories:
+  - cultural consensus theory
+  - threshold theory
+---

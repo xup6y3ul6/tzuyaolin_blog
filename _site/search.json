@@ -1,0 +1,65 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "Tzu-Yao Lin",
+    "section": "",
+    "text": "Hi there! I’m a global/joint PhD student at Maastricht University and KU Leuven. My research focuses on decision-making, reliability, mathematical or computational modeling, and intensive longitudinal data analysis. Beyond that, I am also an R lover, a lindy hopper, and a fire dancer."
+  },
+  {
+    "objectID": "about.html#education",
+    "href": "about.html#education",
+    "title": "Tzu-Yao Lin",
+    "section": "Education",
+    "text": "Education\nKU Leuven | Belgium\nPhD student in Psychology | Oct. 2022 - Present\nMaastricht University | the Netherlands\nPhD student in Methodology and Statistics | Oct. 2022 - Present\nNational Taiwan University | Taiwan\nMS in Psychology | Sep. 2019 - Jun. 2022\nNational Taiwan University | Taiwan\nBS in Psychology (major) and Forestry (minor) | Sep. 2014 - Jun. 2019"
+  },
+  {
+    "objectID": "blog.html",
+    "href": "blog.html",
+    "title": "Posts",
+    "section": "",
+    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n  \n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\nJul 3, 2023\n\n\nTzu-Yao Lin\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Hi there! Welcome.",
+    "section": "",
+    "text": "About this blog\nThis is the contents of the about page for my blog."
+  },
+  {
+    "objectID": "posts/welcome/index.html",
+    "href": "posts/welcome/index.html",
+    "title": "Welcome To My Blog",
+    "section": "",
+    "text": "Welcome to my blog, where I’ll be sharing my academic research progress, including my papers, study notes, and my work with R language, statistics, and psychology. Of course, I’ll also be sharing my personal thoughts and experiences.\nSo, why I want to build a personal blog. The reason is simple. It’s time to share what I know!\n\n\n\nWhen you’ve written the same code 3 times, write a functionWhen you’ve given the same in-person advice 3 times, write a blog post\n\n— David Robinson (@drob) November 9, 2017\n\n\n\nAlthough I haven’t quite figured out what this blog will look like yet, let’s get started and worry about the details later. Anyway, thanks for joining me on this journey!\n\n\n\nThe sunrise in Kinderdijk (Children dike), the Netherlands"
+  },
+  {
+    "objectID": "project.html",
+    "href": "project.html",
+    "title": "Projects",
+    "section": "",
+    "text": "No matching items"
+  },
+  {
+    "objectID": "research/papers/lin2023/index.html",
+    "href": "research/papers/lin2023/index.html",
+    "title": "Incorporating the Luce-Krantz threshold model into the cultural consensus theory for ordinal categorical data: A simulation study",
+    "section": "",
+    "text": "Abstract\nCultural consensus theory (CCT), developed by Batchelder and colleagues in the mid-1980s, is a cognitively driven methodology to assess informants’ consensus in which the culturally correct answers are unknown to researchers a priori. The primary goal of CCT is to uncover the cultural knowledge, preferences or beliefs shared by group members. One of the CCT models, called the {\\em general Condorcet model} (GCM), deals with dichotomous (e.g., true/false) response data which are collected from a group of informants who share the same cultural knowledge. We propose a new model, called the {\\em general Condorcet-Luce-Krantz} (GCLK) model, which incorporates the GCM with the Luce-Krantz threshold theory. The GCLK accounts for ordinal categorical data (including Likert-type questionnaires) in which informants can express confidence levels when answering the items/questions. In addition to finding out the consensus truth to the items, the GCLK also estimates other response characteristics, including the item-difficulty levels, informants’ competency levels, and guessing biases. We introduce the multicultural version of the GCLK that can help researchers detect the number of cultures for a given data set. We use the hierarchical Bayesian modeling approach and the Markov chain Monte Carlo sampling method for estimation. A posterior predictive check is established to verify the central assumptions of the model. Through a series of simulations, we evaluate the model’s applicability and find that the GCLK performs well on parameter recovery.\nKeywords: cultural consensus theory, hierarchical Bayesian model, latent class model, ordinal categorical data, response confidence, threshold theory"
+  },
+  {
+    "objectID": "research/papers.html",
+    "href": "research/papers.html",
+    "title": "Papers",
+    "section": "",
+    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\nTitle\n\n\nAuthor\n\n\n\n\n\n\nIncorporating the Luce-Krantz threshold model into the cultural consensus theory for ordinal categorical data: A simulation study\n\n\nTzu-Yao Lin, Yung-Fong Hsu\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "research/presentations.html",
+    "href": "research/presentations.html",
+    "title": "Presentations",
+    "section": "",
+    "text": "Order By\n       Default\n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Title\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\nDate\n\n\nTitle\n\n\nAuthor\n\n\n\n\n\n\nJul 19, 2023\n\n\nIncorporating the Luce-Krantz threshold model into the cultural consensus theory for ordinal categorical data: A simulation study\n\n\nTzu-Yao Lin\n\n\n\n\nJul 13, 2023\n\n\nReliability for multilevel data: A correlation approach\n\n\nTzu-Yao Lin\n\n\n\n\n\n\nNo matching items"
+  }
+]
