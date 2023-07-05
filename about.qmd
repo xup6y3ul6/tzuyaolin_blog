@@ -1,0 +1,43 @@
+---
+title: "Tzu-Yao Lin"
+image: profile.jpg
+about:
+  template: trestles
+  links:
+    - icon: file-person-fill
+      text: CV
+      href: https://xup6y3ul6.github.io/CV/TzuYaoLin_CV.pdf
+    - text: '<i class="ai ai-1x ai-arxiv"></i>ORCID'
+      href: https://orcid.org/0000-0002-2261-448X 
+    - icon: envelope-at-fill
+      text: Email
+      href: mailto:tzu-yao.lin@maastrichtuniversity.nl
+    - icon: github
+      text: Github
+      href: https://github.com/xup6y3ul6
+    - icon: twitter
+      text: Twitter
+      href: https://twitter.com/TzuYao_Lin
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/tzu-yao-nick-lin/
+page-layout: full
+---
+
+## Bio
+
+Hi there! I'm a global/joint PhD student at Maastricht University and KU Leuven. My research focuses on decision-making, reliability, mathematical or computational modeling, and intensive longitudinal data analysis. Beyond that, I am also an R lover, a lindy hopper, and a fire dancer.
+
+## Education
+
+**KU Leuven** \| Belgium\
+PhD student in Psychology \| Oct. 2022 - Present
+
+**Maastricht University** \| the Netherlands\
+PhD student in Methodology and Statistics \| Oct. 2022 - Present
+
+**National Taiwan University** \| Taiwan\
+MS in Psychology \| Sep. 2019 - Jun. 2022
+
+**National Taiwan University** \| Taiwan\
+BS in Psychology (major) and Forestry (minor) \| Sep. 2014 - Jun. 2019

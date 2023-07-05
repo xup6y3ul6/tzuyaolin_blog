@@ -1,0 +1,9 @@
+---
+title: "Hi there! Welcome."
+page-layout: full
+title-block-banner: true
+---
+
+# About this blog
+
+This is the contents of the about page for my blog.
